@@ -1,4 +1,4 @@
-👋 Hi, I'm Sk Shane Alam 👩🏻‍💻
+# 👋 Hi, I'm Sk Shane Alam 👩🏻‍💻
 
 I'm a Data Science & Analytics enthusiast with a strong foundation in Data Science and a deep interest in extracting insights from data. Holding a B.tech degree in Computer Scince and Engnerring(Big Data Anayltics) from NSUT(Netaji Subhas University of Technology), I've developed strong problem-solving, logical reasoning, and analytical thinking skills that I now apply to real-world data challenges.
 
