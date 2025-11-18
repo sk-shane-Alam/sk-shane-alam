@@ -1,16 +1,26 @@
-## Hi there 👋
+👋 Hi, I'm Sk Shane Alam 👩🏻‍💻
+I'm a Data Science & Analytics enthusiast with a strong foundation in Data Science and a deep interest in extracting insights from data. Holding a B.tech degree in Computer Scince and Engnerring(Big Data Anayltics) , I've developed strong problem-solving, logical reasoning, and analytical thinking skills that I now apply to real-world data challenges.
 
-<!--
-**sk-shane-Alam/sk-shane-alam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work extensively with Python, SQL, and Business Intelligence tools to clean, analyze, and visualize data. I love crafting clear, insightful visual stories that make complex information easy to understand, while continuously taking on projects that challenge me to grow as a data professional. My interests also extend to data storytelling and exploring new tools and techniques to sharpen my existing skills.
 
-Here are some ideas to get you started:
+I’m constantly learning, building projects, and exploring new opportunities to grow in the data field. Beyond analytics, I also enjoy tech content writing, where I simplify analytical concepts for a wider audience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tech Stack & Skills
+Languages:
+Python Java SQL C++
+
+Libraries:
+NumPy Pandas Matplotlib Seaborn
+
+Version Control:
+Git GitHub
+
+IDEs & Databases:
+VS Code Jupyter Notebook Google Colab MySQL
+
+BI and Storytelling:
+Power BI Excel PowerPoint 
+
+Soft Skills:
+Problem Solving Analytical Thinking Logical Thinking Decision Making Attention to Detail
+
